@@ -1,0 +1,102 @@
+[
+  {
+    "word": "bonjour",
+    "meaning": "hello, good morning",
+    "pron_tip": "bohn-zhoor"
+  },
+  {
+    "word": "merci",
+    "meaning": "thank you",
+    "pron_tip": "mehr-see"
+  },
+  {
+    "word": "au revoir",
+    "meaning": "goodbye",
+    "pron_tip": "oh ruh-vwar"
+  },
+  {
+    "word": "s'il vous plaît",
+    "meaning": "please",
+    "pron_tip": "seel voo pleh"
+  },
+  {
+    "word": "oui",
+    "meaning": "yes",
+    "pron_tip": "wee"
+  },
+  {
+    "word": "non",
+    "meaning": "no",
+    "pron_tip": "noh"
+  },
+  {
+    "word": "excusez-moi",
+    "meaning": "excuse me",
+    "pron_tip": "ehk-skew-zay mwah"
+  },
+  {
+    "word": "je m'appelle",
+    "meaning": "my name is",
+    "pron_tip": "zhuh mah-pel"
+  },
+  {
+    "word": "comment allez-vous?",
+    "meaning": "how are you?",
+    "pron_tip": "koh-mahn tah-lay voo"
+  },
+  {
+    "word": "bien",
+    "meaning": "good",
+    "pron_tip": "byehn"
+  },
+  {
+    "word": "merci, bien",
+    "meaning": "thank you, fine",
+    "pron_tip": "mehr-see, byehn"
+  },
+  {
+    "word": "je comprends",
+    "meaning": "I understand",
+    "pron_tip": "zhuh kohm-prahn"
+  },
+  {
+    "word": "je ne comprends pas",
+    "meaning": "I don't understand",
+    "pron_tip": "zhuh nuh kohm-prahn pah"
+  },
+  {
+    "word": "parlez lentement",
+    "meaning": "speak slowly",
+    "pron_tip": "par-lay lahn-tuh-mahn"
+  },
+  {
+    "word": "aidez-moi",
+    "meaning": "help me",
+    "pron_tip": "eh-day mwah"
+  },
+  {
+    "word": "où sont les toilettes?",
+    "meaning": "where are the restrooms?",
+    "pron_tip": "oo sohn lay twah-let"
+  },
+  {
+    "word": "combien ça coûte?",
+    "meaning": "how much does it cost?",
+    "pron_tip": "kohm-byen sah koot"
+  },
+  {
+    "word": "un peu",
+    "meaning": "a little",
+    "pron_tip": "uhn puh"
+  },
+  {
+    "word": "beaucoup",
+    "meaning": "a lot",
+    "pron_tip": "boh-koo"
+  },
+  {
+    "word": "bonne journée",
+    "meaning": "have a good day",
+    "pron_tip": "buhn zhoor-nay"
+  }
+]

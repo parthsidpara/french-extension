@@ -1,0 +1,34 @@
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="content">
+    <button class="close-button" id="closeButton">&times;</button>
+    <!-- main content div -->
+    <div id="main-content">
+      <p id="word"></p>
+      <p id="meaning"></p>
+      <p id="phon-tran"></p>
+    </div>
+
+    <!-- like and fav btn -->
+    <div class="checkbox-container">
+      <div id="learned-checkbox" class="functionality-btn">
+        <input type="checkbox" id="learnedCheckbox">
+        <label for="learnedCheckbox">Learned</label>
+      </div>
+      <div id="like-btn" class="functionality-btn">
+        <div class="heart-button-container">
+          <button id="favoriteButton" class="heart-button">♡</button>
+        </div>
+        <label for="favoriteButton">Favorite</label>
+      </div>
+    </div>
+    <button id="viewLearnedWords" class="button">View Learned Words</button>
+    <button id="viewFavoriteWords" class="button">View Favorite Words</button>
+    <button id="refreshButton" class="button">Refresh</button>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
